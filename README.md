@@ -6,7 +6,7 @@ Over the [last 20+ years](https://dholmes.co.uk/work-history/) I've been providi
 
 I use [Agile methodology](https://dholmes.co.uk/skills/), [Open Source technologies](https://dholmes.co.uk/skills/) and [Azure Public Cloud](https://dholmes.co.uk/skills/) to develop [DevOps](https://dholmes.co.uk/skills/) and [SaaS solutions](https://dholmes.co.uk/work-history/).
 
-> **Recent Technologies:** [Azure](https://azure.microsoft.com/en-us/), [React](https://reactjs.org/), [NestJS](https://nestjs.com/), [Next.js](https://nextjs.org/), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com), [Azure](https://azure.microsoft.com/en-us/), [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/), [Python 3](https://www.python.org/download/releases/3.0/), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com)
+> **Recent Technologies:** [React](https://reactjs.org/), [NestJS](https://nestjs.com/), [Next.js](https://nextjs.org/), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com), [Azure](https://azure.microsoft.com/en-us/), [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/), [Python 3](https://www.python.org/download/releases/3.0/), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com)
 
 ## Stats
 
