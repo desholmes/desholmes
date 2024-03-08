@@ -16,9 +16,20 @@ I use [Agile methodology](https://dholmes.co.uk/skills/), [Open Source technolog
 
 [![Text Quest: Unlock your imagination](https://github-readme-stats.vercel.app/api/pin/?username=desholmes&repo=text-quest&theme=transparent "Text Quest: Unlock your imagination")](https://github.com/desholmes/text-quest)
 
+[![ImageFLY: On-the-fly image transformations](https://github-readme-stats.vercel.app/api/pin/?username=desholmes&repo=imagefly&theme=transparent "ImageFLY: On-the-fly image transformations")](https://github.com/desholmes/imagefly)
+
+[![Azure Container Registry Release Candidate Docker Image Deleter](https://github-readme-stats.vercel.app/api/pin/?username=desholmes&repo=acr-tag-deleter&theme=transparent "Azure Container Registry Release Candidate Docker Image Deleter")](https://github.com/desholmes/tfft-countdown)
+
+## Popular Archived Repos
+
 [![Covid US REST API](https://github-readme-stats.vercel.app/api/pin/?username=desholmes&repo=covid-19-us-api&theme=transparent "Covid US REST API")](https://github.com/desholmes/covid-19-us-api)
 
-[![TFFT Countdown](https://github-readme-stats.vercel.app/api/pin/?username=desholmes&repo=tfft-countdown&theme=transparent "TFFT Countdown")](https://github.com/desholmes/tfft-countdown)
+## Popular Posts
+
+* [Working with Des Holmes](https://dholmes.co.uk/testimonials/)
+* [Managing Technical Debt: A Startup Founder’s Guide](https://dholmes.co.uk/blog/managing-technical-debt-a-startup-founders-guide/)
+* [Making Your Deployments Boring: What’s Good Enough?](https://dholmes.co.uk/blog/making-your-deployments-boring-whats-good-enough/)
+* [ImageFly: On-The-Fly Image Transformations](https://dholmes.co.uk/blog/imagefly-on-the-fly-image-transformations/)
 
 ## Tags & Links
 
