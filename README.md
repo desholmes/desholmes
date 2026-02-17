@@ -26,6 +26,13 @@ I use [Agile methodology](https://dholmes.co.uk/skills/), [Open Source technolog
 * [Developing Emails Doesn’t Have to Be Hell](https://dholmes.co.uk/blog/developing-emails-doesnt-have-to-be-hell/)
 * [ImageFly: On-The-Fly Image Transformations](https://dholmes.co.uk/blog/imagefly-on-the-fly-image-transformations/)
 
+## Projects & Collaborations
+
+* [FuelSearch: UK petrol & diesel prices](https://www.fuelsearch.co.uk/)
+* [Study23: GCSE Maths formula flash cards](https://www.study23.io/)
+* [Studio23 Games: London-based game design & developers](https://games.studio23.london/)
+* [Studio23: Full-service boutique design agency](https://studio23.london/)
+
 ## Tags & Links
 
 * **Skills & knowledge**: [Technical Leadership](https://dholmes.co.uk/tags/technical-leadership/), [Technical Direction](https://dholmes.co.uk/tags/technical-direction/), [Technical Delivery](https://dholmes.co.uk/tags/technical-delivery/), [Product Development](https://dholmes.co.uk/tags/product-development/), [SaaS](https://dholmes.co.uk/tags/saas/), [DevOps](https://dholmes.co.uk/tags/devops), [Azure Public Cloud](https://dholmes.co.uk/skills/)
